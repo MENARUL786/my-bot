@@ -1,0 +1,4 @@
+telethon
+google-generativeai
+firebase-admin
+requests
